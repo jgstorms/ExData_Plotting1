@@ -1,3 +1,8 @@
+##Description
+This repository is a fork of Prof. Roger Deng's ExData\_Plotting1 repo. The script trimDataset.R trims the original household\_power\_consumption.txt dataset to only include data for Feb. 1, 2007 to Feb. 2, 2007. The scripts plot1.R, plot2.R, plot3.R, and plot4.R generate plot1.png, plot2.png, plot3.png, and plot4.png respectively. See additional comments in each script for further details.
+
+Below is the original assignment description.
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +116,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
